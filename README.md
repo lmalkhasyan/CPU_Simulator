@@ -10,7 +10,8 @@
     Example: label1: Mov r1,r2:
     Not case sensitive!
 
-## Complation 
+## How to compile?
+# In Terminal:
 ```
 make or make all
 ```
